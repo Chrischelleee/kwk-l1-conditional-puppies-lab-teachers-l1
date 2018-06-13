@@ -32,5 +32,7 @@ end
 def both_animals(num_puppies, num_cats)
   if num_puppies == 0 && num_cats == 5
     "Good job!"
+  else
+    "Get back to your animal goals!"
   end
 end
