@@ -22,6 +22,8 @@ end
 def some_puppies(found_puppies, max_puppies)
   if found_puppies < max_puppies
     "Good job, Rachel!"
+  else
+    "Get back to your animal goals!"
   end
 end
 
