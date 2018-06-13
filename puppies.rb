@@ -13,7 +13,7 @@ def less_puppies(num)
     "Good job, Rachel!"
   elsif num == 3
     "Slow down! No more puppies."
-  else 
+  else
     "Get back to your animal goals!"
   end
 end
